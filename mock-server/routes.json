@@ -1,0 +1,4 @@
+{
+    "/angular7_tutorial_ws/services/user/query": "/query",
+    "/api/posts/:id": "/posts/:id"
+  }

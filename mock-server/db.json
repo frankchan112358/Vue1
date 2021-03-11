@@ -1,0 +1,42 @@
+{
+  "agentList": [
+    {
+      "userId": "16048",
+      "name": "郭有強",
+      "branchName": "資訊處",
+      "branchCode": "C105",
+      "sex": "M",
+      "email": "gyc-16048@email.esunbank.com.tw",
+      "activated": true
+    },
+    {
+      "userId": "00001",
+      "name": "DEMO1",
+      "branchName": "資訊處",
+      "branchCode": "C105",
+      "sex": "M",
+      "email": "demo1@email.esunbank.com.tw",
+      "activated": true
+    }
+  ],
+  "queryErrMsg": {
+    "code": "R0001",
+    "desc": "查無此使用者ID"
+  },
+  "addMsg": {
+    "code": "R0000",
+    "desc": "新增成功"
+  },
+  "addErrMsg": {
+    "code": "R0001",
+    "desc": "己有此使用者ID"
+  },
+  "deleteMsg": {
+    "code": "R0000",
+    "desc": "刪除成功"
+  },
+  "updateMsg": {
+    "code": "R0000",
+    "desc": "更新成功"
+  }
+}

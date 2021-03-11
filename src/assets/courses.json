@@ -1,0 +1,45 @@
+[
+    {
+        "name": "課程二",
+        "contents": [
+            {
+                "title": "常用指令",
+                "path": "instruction"
+            }
+        ]
+    },
+    {
+        "name": "課程三",
+        "contents": [
+            {
+                "title": "Material UI",
+                "path": "material"
+            },
+            {
+                "title": "Drag and Drop",
+                "path": "dragAndDrop"
+            },
+            {
+                "title": "Angular與jQuery的整合",
+                "path": "jqueryIntergration"
+            },
+            {
+                "title": "行內自行開發元件",
+                "path": "customComponent"
+            }
+        ]
+    },
+    {
+        "name": "課程四",
+        "contents": [
+            {
+                "title": "Rxjs 介紹",
+                "path": "rxjs"
+            },
+            {
+                "title": "HTTP 服務",
+                "path": "http"
+            }
+        ]
+    }
+]
